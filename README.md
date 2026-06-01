@@ -1,6 +1,6 @@
-# Smart Monitoring System Using Python and OpenCV
+Real-Time Fire, Smoke and Motion Detection System
 
-## Overview
+Overview
 
 A real-time monitoring system that detects:
 
@@ -18,7 +18,7 @@ The system provides:
 * Snapshot capture
 * Alert logging
 
-## Technologies Used
+Technologies Used
 
 * Python
 * OpenCV
@@ -27,7 +27,7 @@ The system provides:
 * SMTP
 * Threading
 
-## Features
+ Features
 
 * Motion Detection
 * Fire Detection
