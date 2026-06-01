@@ -12,7 +12,7 @@ from email.mime.text import MIMEText
 class SmartMonitorApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Smart Monitoring System")
+        self.root.title("Real-Time Fire, Smoke and Motion Detection System")
         self.root.geometry("900x700")
 
         self.camera = None
@@ -28,7 +28,7 @@ class SmartMonitorApp:
 
                         root,
 
-                        text="AI SMART MONITORING SYSTEM",
+                        text="REAL-TIME FIRE,SMOKE AND MOTION DETECTION SYSTEM",
 
                         font=("Arial", 24, "bold"),
 
@@ -726,7 +726,7 @@ class SmartMonitorApp:
 
 
 root = tk.Tk()
-root.title("AI Smart Monitoring System")
+root.title("Real-Time Fire, Smoke and Motion Detection System")
 
 root.geometry("1300x900")
 
